@@ -35,7 +35,7 @@ To run this game **locally** on your system, follow these steps:
 
 📌 **Clone the repository**  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/stick-hero-game.git
+https://github.com/jatavscript/Stick-Hero-Game.git
 ```
 
 📌 **Navigate to the project folder**  
