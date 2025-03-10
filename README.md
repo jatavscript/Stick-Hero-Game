@@ -30,24 +30,6 @@ Ajay's Stick Hero Game is a **fun and challenging** HTML5 game where players mus
 
 ---
 
-## **🛠️ Setup and Installation**  
-To run this game **locally** on your system, follow these steps:  
-
-📌 **Clone the repository**  
-```sh
-https://github.com/jatavscript/Stick-Hero-Game.git
-```
-
-📌 **Navigate to the project folder**  
-```sh
-cd stick-hero-game
-```
-
-📌 **Open the game in your browser**  
-Simply double-click on `index.html` or open it using **Live Server** in VS Code.  
-
----
-
 ## **🌍 Live Demo**  
 🚀 **Play Online**: [🔗 Click Here](https://jatavscript.github.io/stick-hero-game/)  
 
