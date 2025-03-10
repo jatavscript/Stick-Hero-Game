@@ -31,7 +31,7 @@ Ajay's Stick Hero Game is a **fun and challenging** HTML5 game where players mus
 ---
 
 ## **🌍 Live Demo**  
-🚀 **Play Online**: [🔗 Click Here](https://jatavscript.github.io/stick-hero-game/)  
+🚀 **Play Online**: [🔗 Click Here]( https://jatavscript.github.io/Stick-Hero-Game/)  
 
 ---
 
