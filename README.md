@@ -1,6 +1,6 @@
 # **🏆 Ajay's - Stick Hero Game 🎮**  
 
-Ajay's Stick Hero Game is a **fun and challenging** HTML5 game where players must **stretch a stick** to help the hero cross platforms. The game tests **precision and timing**, making it **highly engaging** for users.    
+Ajay's Stick Hero Game is a **fun and challenging** game where players must **stretch a stick** to help the hero cross platforms. The game tests **precision and timing**, making it **highly engaging** for users.    
 
 ---
 
